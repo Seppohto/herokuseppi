@@ -1,2 +1,0 @@
-# herokuseppi
-eka appi
